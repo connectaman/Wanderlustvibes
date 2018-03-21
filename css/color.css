@@ -1,0 +1,39 @@
+ /* ThemeColor One */
+.touristpoint-color,.touristpoint-colorhover:hover,.touristpoint-tour-tabs .nav-tabs li.active a:before,.touristpoint-tour-filterable ul li a.is-checked:before,
+.touristpoint-services ul li:hover span,.touristpoint-blog-option li:hover a,.touristpoint-tags a:hover,.touristpoint-blog-social ul li:hover a,
+.touristpoint-prenxt-post ul li:hover h3 a,.widget_cetagories ul li:hover a,.widget_tour ul li:hover h6 a,.touristpoint-blog-grid .touristpoint-blog-option li a i,
+.touristpoint-blog ul li:hover .touristpoint-readmore-btn,.touristpoint-grid-comment li:hover a,.touristpoint-blog-large .touristpoint-blog-option li a i,
+.touristpoint-shop-summery span,.touristpoint-shop-summery .touristpoint-readmore-btn:hover,.touristpoint-shop-grid-text > span,.touristpoint-related-tour-text > span,
+.touristpoint-shop-list-text > span,.touristpoint-shop ul li:hover .touristpoint-readmore-btn,.touristpoint-tour-detail-option li i,.touristpoint-booking form input[type="submit"],
+.touristpoint-tour figure a > span i,.touristpoint-tour-grid-text > span,.touristpoint-tour ul li:hover .touristpoint-readmore-btn,.touristpoint-tour-list-text > span,
+.touristpoint-tour-large .touristpoint-blog-option li a i,.touristpoint-team-social li:hover a {
+    color: #e95c53;
+}
+.touristpoint-bgcolor,.touristpoint-bgcolorhover:hover,.touristpoint-ticket-tabs .nav-tabs > li > a,.touristpoint-ticket-tabs .nav-tabs > li > a:hover,
+.touristpoint-ticket-tabs .nav-tabs > li > a:focus,.touristpoint-tab-form form ul li input[type="submit"],.ui-slider .ui-slider-range,
+.touristpoint-fancy-title h2:before,.touristpoint-fancy-title h2:after,.touristpoint-services ul li span,.touristpoint-services ul li span:before,
+.touristpoint-services ul li span:after,.touristpoint-tour-modern figure > a i,.touristpoint-blog-modern figure a i,.touristpoint-blog-modern-text time,
+.touristpoint-blog-modern-text time:before,.touristpoint-footer-newsletter form input[type="submit"],.touristpoint-footer-title h2:before,
+.touristpoint-footer-title h2:after,.touristpoint-blog-heading time,.touristpoint-blog-heading time:before,blockquote:before,.touristpoint-section-heading h2:before,
+.touristpoint-section-heading h2:after,.touristpoint-related-blog figure a i,.thumb-list:hover .comment-reply-link,.comment-respond form p input[type="submit"],
+.touristpoint-widget-heading h2:before,.touristpoint-widget-heading h2:after,.widget_cetagories ul li:after,.touristpoint-blog-grid figure a i,
+.touristpoint-blog ul li:hover .touristpoint-readmore-btn:before,.touristpoint-blog ul li:hover .touristpoint-readmore-btn:after,
+.touristpoint-blog-large figure a i,.touristpoint-shop-summery .touristpoint-readmore-btn:hover:before,.touristpoint-shop-summery .touristpoint-readmore-btn:hover:after,
+.touristpoint-shop-tabs .nav-tabs li.active:before,.touristpoint-shop-grid figure > span,.touristpoint-shop-grid figure a i,.touristpoint-shop-list figure > span,
+.touristpoint-shop-list figure a i,.touristpoint-shop ul li:hover .touristpoint-readmore-btn:before,.touristpoint-shop ul li:hover .touristpoint-readmore-btn:after,
+.touristpoint-related-tour figure a i,.widget_tabs h2,.touristpoint-tour figure a > span,.touristpoint-tour ul li:hover .touristpoint-readmore-btn:before,
+.touristpoint-tour ul li:hover .touristpoint-readmore-btn:after,.bar-container .bar > small,.touristpoint-error-btn,.touristpoint-contact-us ul li i,
+.touristpoint-contact-us-text form ul li label input[type="submit"],.touristpoint-search-result-text form label input[type="submit"],
+.touristpoint-faq-accordion .panel-title > a:before,.touristpoint-priceplan-wrap h2,.touristpoint-priceplan-heading,
+.touristpoint-Pricing-Plan ul li:hover .touristpoint-pricepln-btn {
+    background-color: #e95c53;
+}
+.touristpoint-bordercolor,.touristpoint-bordercolorhover:hover,.widget_cetagories ul li:hover:before,.touristpoint-tour-tabs .nav-tabs li.active a:before,
+.touristpoint-tour-filterable ul li a.is-checked:before,.touristpoint-Pricing-Plan ul li:hover .touristpoint-pricepln-btn,#slider-range span,#slider-range2 span,
+.touristpoint-services ul li span,.comment-respond form p input[type="submit"]:hover,.touristpoint-booking form input[type="submit"],
+.comment-respond form p input[type="submit"]:hover,.touristpoint-booking form input[type="submit"] {
+    border-color: #e95c53;
+}
+.bar-container .bar > small:before,.bar-container .bar > small:before {
+	border-top-color: #e95c53;
+}
